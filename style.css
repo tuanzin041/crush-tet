@@ -1,0 +1,73 @@
+* Reset CSS cơ bản */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Cấu hình nền và phông chữ */
+body {
+    background-color: #f9f3e8;  /* Màu nền nhẹ nhàng */
+    font-family: 'Arial', sans-serif;  /* Phông chữ mặc định */
+    text-align: center;
+    padding-top: 50px;
+    margin: 0;
+}
+
+/* Tiêu đề chính */
+h1 {
+    color: #ff4081;  /* Màu hồng đẹp mắt cho tiêu đề */
+    font-size: 4em;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+/* Phần hiển thị thông điệp */
+.message {
+    font-size: 1.5em;
+    color: #333;
+    margin: 20px;
+}
+
+/* Biểu tượng mèo */
+.cat {
+    font-size: 3em;
+    color: #ff4081;  /* Màu mèo hồng */
+    margin-top: 20px;
+}
+
+/* Pháo hoa */
+.fireworks {
+    font-size: 2em;
+    color: #ff4081;
+    margin-top: 20px;
+}
+
+/* Phần footer */
+.footer {
+    margin-top: 30px;
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Trái tim */
+.heart {
+    color: red;
+    font-size: 2em;
+}
+
+/* Chữ gõ hiệu ứng */
+.typed-output {
+    color: #333;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+/* Ẩn audio trong giao diện */
+audio {
+    display: none;
+}
+Sent 4m ago
+
+
